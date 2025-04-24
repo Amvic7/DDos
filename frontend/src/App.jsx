@@ -46,7 +46,7 @@ function App() {
 
   const clearLogs = async () => {
     try {
-      await axios.post("http://localhost:5000/clear-logs");
+      await axios.post("https://ddos-project.onrender.com/clear-logs");
       setLogs([]);
     } catch (error) {
       console.error("Error clearing logs:", error);
@@ -56,7 +56,7 @@ function App() {
   const banIPHandler = async () => {
     if (!banIP.trim()) return;
     try {
-      await axios.post("http://localhost:5000/ban", { ip: banIP });
+      await axios.post("https://ddos-project.onrender.com/ban", { ip: banIP });
       setBanIP("");
     } catch (error) {
       console.error("Error banning IP:", error);
@@ -66,7 +66,7 @@ function App() {
   const unbanIPHandler = async () => {
     if (!unbanIP.trim()) return;
     try {
-      await axios.post("http://localhost:5000/unban", { ip: unbanIP });
+      await axios.post("https://ddos-project.onrender.com/unban", { ip: unbanIP });
       setUnbanIP("");
     } catch (error) {
       console.error("Error unbanning IP:", error);
