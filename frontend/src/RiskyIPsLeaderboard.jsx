@@ -37,7 +37,7 @@ const RiskyIPsLeaderboard = () => {
 
     return (
         <div className="card p-3 my-3">
-            <h4>🔥 Top Risky IPs Leaderboard</h4>
+            <h4> Top Risky IPs Leaderboard</h4>
             {loading ? (
                 <p>Loading...</p>
             ) : riskyIPs.length > 0 ? (
