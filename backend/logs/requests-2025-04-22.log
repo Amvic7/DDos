@@ -1,0 +1,22 @@
+[2025-04-22 19:56:43] INFO: 🚀 Server running on http://localhost:5000
+[2025-04-22 19:56:57] INFO: ⚡ New WebSocket client connected
+[2025-04-22 20:04:33] INFO: Logged request: {"timestamp":"2025-04-22T14:34:33.421Z","ip":"::1","method":"GET","path":"/proxy/hello","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:04:59] INFO: Logged request: {"timestamp":"2025-04-22T14:34:59.638Z","ip":"::1","method":"GET","path":"/proxy/hello","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:05:24] INFO: Logged request: {"timestamp":"2025-04-22T14:35:24.181Z","ip":"::1","method":"GET","path":"/proxy/hello","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:07:06] INFO: Logged request: {"timestamp":"2025-04-22T14:37:06.003Z","ip":"::1","method":"GET","path":"/proxy/hello","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:12:18] INFO: Logged request: {"timestamp":"2025-04-22T14:42:18.623Z","ip":"::1","method":"GET","path":"/proxy/hello","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:12:24] INFO: Logged request: {"timestamp":"2025-04-22T14:42:24.625Z","ip":"::1","method":"GET","path":"/proxy/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:13:13] INFO: 🚀 Server running on http://localhost:5000
+[2025-04-22 20:13:13] INFO: ⚡ New WebSocket client connected
+[2025-04-22 20:13:18] INFO: Logged request: {"timestamp":"2025-04-22T14:43:18.958Z","ip":"::1","method":"GET","path":"/proxy/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:15:56] INFO: Logged request: {"timestamp":"2025-04-22T14:45:56.184Z","ip":"::1","method":"GET","path":"/proxy/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:16:26] INFO: ⚡ New WebSocket client connected
+[2025-04-22 20:17:16] INFO: Logged request: {"timestamp":"2025-04-22T14:47:16.698Z","ip":"::1","method":"GET","path":"/hello","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:17:54] INFO: 🚀 Server running on http://localhost:5000
+[2025-04-22 20:17:55] INFO: ⚡ New WebSocket client connected
+[2025-04-22 20:18:07] INFO: Logged request: {"timestamp":"2025-04-22T14:48:07.086Z","ip":"::1","method":"GET","path":"/hello","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:18:12] INFO: Logged request: {"timestamp":"2025-04-22T14:48:12.298Z","ip":"::1","method":"GET","path":"/proxy","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:18:17] INFO: Logged request: {"timestamp":"2025-04-22T14:48:17.572Z","ip":"::1","method":"GET","path":"/proxy/hello","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:18:17] INFO: Logged request: {"timestamp":"2025-04-22T14:48:17.617Z","ip":"::1","method":"GET","path":"/favicon.ico","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:19:05] INFO: Logged request: {"timestamp":"2025-04-22T14:49:05.646Z","ip":"::1","method":"GET","path":"/proxy/hello","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-22 20:19:08] INFO: Logged request: {"timestamp":"2025-04-22T14:49:08.786Z","ip":"::1","method":"GET","path":"/favicon.ico","location":"undefined, undefined","isp":"Unknown"}

@@ -1,0 +1,94 @@
+[2025-04-24 13:23:28] INFO: 🚀 Server running on http://localhost:5000
+[2025-04-24 13:23:42] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:44] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:45] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:46] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:46] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:47] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:49] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:52] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:52] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:53] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:56] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:57] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:57] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:57] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:57] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:24:57] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:02] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:02] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:06] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:06] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:06] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:08] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:08] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:08] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:09] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:09] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:09] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:09] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:09] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:09] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:10] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:10] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:12] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:13] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:13] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:13] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:13] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:14] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:14] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:14] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:14] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:14] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:16] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:16] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:16] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:16] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:16] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:17] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:17] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:18] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:18] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:18] INFO: ⚡ New WebSocket client connected
+[2025-04-24 13:25:33] INFO: Logged request: {"timestamp":"2025-04-24T07:55:33.915Z","ip":"::1","method":"GET","path":"/login","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:38] INFO: Logged request: {"timestamp":"2025-04-24T07:55:38.847Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:43] INFO: Logged request: {"timestamp":"2025-04-24T07:55:43.184Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:43] INFO: Logged request: {"timestamp":"2025-04-24T07:55:43.683Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:44] INFO: Logged request: {"timestamp":"2025-04-24T07:55:44.107Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:44] INFO: Logged request: {"timestamp":"2025-04-24T07:55:44.440Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:44] INFO: Logged request: {"timestamp":"2025-04-24T07:55:44.761Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:50] INFO: Logged request: {"timestamp":"2025-04-24T07:55:50.435Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:50] INFO: Logged request: {"timestamp":"2025-04-24T07:55:50.714Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:50] INFO: Logged request: {"timestamp":"2025-04-24T07:55:50.900Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:51] INFO: Logged request: {"timestamp":"2025-04-24T07:55:51.078Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:51] INFO: Logged request: {"timestamp":"2025-04-24T07:55:51.221Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:51] INFO: Logged request: {"timestamp":"2025-04-24T07:55:51.365Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:51] INFO: Logged request: {"timestamp":"2025-04-24T07:55:51.498Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:51] INFO: Logged request: {"timestamp":"2025-04-24T07:55:51.663Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:51] INFO: Logged request: {"timestamp":"2025-04-24T07:55:51.799Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:25:51] INFO: Logged request: {"timestamp":"2025-04-24T07:55:51.957Z","ip":"::1","method":"GET","path":"/","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:26:00] INFO: Logged request: {"timestamp":"2025-04-24T07:56:00.009Z","ip":"::1","method":"GET","path":"/login","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:26:03] INFO: Logged request: {"timestamp":"2025-04-24T07:56:03.283Z","ip":"::1","method":"GET","path":"/login","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:26:03] INFO: Logged request: {"timestamp":"2025-04-24T07:56:03.676Z","ip":"::1","method":"GET","path":"/login","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:26:03] INFO: Logged request: {"timestamp":"2025-04-24T07:56:03.981Z","ip":"::1","method":"GET","path":"/login","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:26:04] INFO: Logged request: {"timestamp":"2025-04-24T07:56:04.301Z","ip":"::1","method":"GET","path":"/login","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:26:04] INFO: 📈 Risk adjusted: ::1 => 1
+[2025-04-24 13:26:04] WARN: Rate limit exceeded: ::1
+[2025-04-24 13:26:04] INFO: Logged request: {"timestamp":"2025-04-24T07:56:04.349Z","ip":"::1","method":"GET","path":"/favicon.ico","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:26:04] INFO: Logged request: {"timestamp":"2025-04-24T07:56:04.568Z","ip":"::1","method":"GET","path":"/login","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:26:04] INFO: 📈 Risk adjusted: ::1 => 2
+[2025-04-24 13:26:04] WARN: Rate limit exceeded: ::1
+[2025-04-24 13:26:04] INFO: Logged request: {"timestamp":"2025-04-24T07:56:04.967Z","ip":"::1","method":"GET","path":"/login","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:26:04] INFO: 📈 Risk adjusted: ::1 => 3
+[2025-04-24 13:26:04] WARN: Rate limit exceeded: ::1
+[2025-04-24 13:26:11] INFO: Logged request: {"timestamp":"2025-04-24T07:56:11.377Z","ip":"::1","method":"GET","path":"/login","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:26:11] INFO: 📈 Risk adjusted: ::1 => 4
+[2025-04-24 13:26:11] WARN: Rate limit exceeded: ::1
+[2025-04-24 13:26:11] INFO: Logged request: {"timestamp":"2025-04-24T07:56:11.747Z","ip":"::1","method":"GET","path":"/login","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:26:11] WARN: 🚨 Auto-banned IP: ::1 | Risk: 5 | Duration: 25m
+[2025-04-24 13:26:11] WARN: Rate limit exceeded: ::1
+[2025-04-24 13:26:12] INFO: Logged request: {"timestamp":"2025-04-24T07:56:12.130Z","ip":"::1","method":"GET","path":"/login","location":"undefined, undefined","isp":"Unknown"}
+[2025-04-24 13:26:12] WARN: Blocked request from banned IP: ::1
+[2025-04-24 13:27:09] INFO: 🚀 Server running on http://localhost:5000
+[2025-04-24 13:27:12] INFO: ⚡ New WebSocket client connected
