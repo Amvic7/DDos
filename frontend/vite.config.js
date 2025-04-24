@@ -7,6 +7,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/graph-data': 'http://localhost:5000',
+      '/api/'": 'https://ddos-project.onrender.com'
     },
   }
 })
